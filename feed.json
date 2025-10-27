@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nosara Holidays",
+    "description": "",
+    "home_page_url": "https://dropthedot.github.io/nosara-holidays",
+    "feed_url": "https://dropthedot.github.io/nosara-holidays/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andy M."
+    },
+    "items": [
+    ]
+}

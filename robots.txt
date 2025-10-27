@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dropthedot.github.io/nosara-holidays/sitemap.xml
